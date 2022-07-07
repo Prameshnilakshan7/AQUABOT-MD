@@ -18,7 +18,7 @@ This project is still being tested
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@MagmaGaming/AQUABOT-MDV2?v=1)
 
 ## QR කේතය ලබා ගත් පසු Bot deploy කිරීමට පහල බටනය CLICK කරන්න..
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/sanuwaofficial/AQUABOT-MD)
+[ ![pramesh.it](https://repl.it/badge/github/quiec/whatsasena)
 
 ---------------------------------   
 
@@ -29,5 +29,5 @@ This project is still being tested
 - [@yusufusta](https://github.com/yusufusta/) for coded [WhatsAsena](https://github.com/yusufusta/WhatsAsena) 
 - [@sisula](https://github.com/sisula/) & [@joka](https://github.com/MrJoka-Thejaka/) for all the helps 🤝
  
-  
+  <img align="center" src="https://i.ibb.co/K54KLgF/Picsart-22-07-03-15-45-00-698.jpg"/></a>
  
